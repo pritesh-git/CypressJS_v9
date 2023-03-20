@@ -1,0 +1,7 @@
+{
+  "openForm": { "id": "#btn1", "value": "" },
+  "email": { "id": ":nth-child(2) > .txtbox", "value": "automateTest@Bot.com" },
+  "password": { "id": ":nth-child(3) > .txtbox", "value": "123456" },
+  "loginBtn": { "id": "#enterbtn", "value": "" },
+  "errorMsg": { "id": "#errormsg", "value": " Invalid User Name or PassWord " }
+}

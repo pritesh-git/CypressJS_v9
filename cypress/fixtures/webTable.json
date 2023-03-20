@@ -1,0 +1,14 @@
+{
+  "navArray": [1, 2, 4, 5, 7, 8, 9, 10],
+  "menuArray": ["Email", "First Name", "Gender", "Last Name", "Phone"],
+  "title": { "id": "h1", "value": "Automation Demo Site " },
+  "navTitle": { "id": ".navbar > .container", "value": "" },
+  "point1": {
+    "id": "section > :nth-child(1) > .row > :nth-child(2) > :nth-child(1)",
+    "value": "Double Click on Edit Icon to EDIT the Table Row."
+  },
+  "point2": {
+    "id": "section > :nth-child(1) > .row > :nth-child(2) > :nth-child(2)",
+    "value": "Right Click on Delete Icon to DELETE the Table Row."
+  }
+}

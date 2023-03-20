@@ -1,0 +1,12 @@
+{
+  "navArray": [1, 2, 3, 5, 7, 8, 9, 10],
+  "title": { "id": "h1", "value": "Automation Demo Site " },
+  "navTitle": ".navbar > .container",
+  "singleFrame": "#singleframe",
+  "multiFrame": "#Multiple > iframe",
+  "typeActive": ".active > .analystic",
+  "type1": ":nth-child(1) > .analystic",
+  "type2": ":nth-child(2) > .analystic",
+  "text1": "Single Iframe ",
+  "text2": "Iframe with in an Iframe"
+}

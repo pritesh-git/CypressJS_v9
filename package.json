@@ -1,0 +1,17 @@
+{
+  "name": "cypress",
+  "version": "9.1.1",
+  "description": "Cypress automation using v9.0.0",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "pretty": "prettier --write \"./**/**/*.{js,jsx,json,cy}\""
+  },
+  "author": "pritesh-git",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "9.1.1",
+    "prettier": "^2.8.5"
+  }
+}

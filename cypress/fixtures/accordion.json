@@ -1,0 +1,37 @@
+{
+  "menuArray": { "id": [1, 2, 3, 4, 7, 8, 9, 10], "value": "" },
+  "title": { "id": "h1", "value": "Automation Demo Site " },
+  "title1": { "id": ".navbar > .container", "value": "" },
+  "firstAccordionTitle": {
+    "id": ":nth-child(1) > .panel-heading",
+    "value": "Collapsible Group 1 - Readability"
+  },
+  "secondAccordionTitle": {
+    "id": ":nth-child(2) > .panel-heading > .panel-title > a > b",
+    "value": "Collapsible Group 2 - Single Line Coding"
+  },
+  "thirdAccordionTitle": {
+    "id": ":nth-child(3) > .panel-heading > .panel-title > a > b",
+    "value": "Collapsible Group 3 - Methhod Chaining"
+  },
+  "fourthAccordionTitle": {
+    "id": ":nth-child(4) > .panel-heading > .panel-title > a > b",
+    "value": "Collapsible Group 4 - Cross Browser Testing"
+  },
+  "firstAccordionBody": {
+    "id": "#collapse1 > .panel-body",
+    "value": "This Automation Testing API is very simple to read and understand."
+  },
+  "secondAccordionBody": {
+    "id": "#collapse2 > .panel-body",
+    "value": "each and every functionality will be achieved by Single line code."
+  },
+  "thirdAccordionBody": {
+    "id": "#collapse3 > .panel-body",
+    "value": "As the name indicates, you can chain the methods without breaking the code"
+  },
+  "fourthAccordionBody": {
+    "id": "#collapse4 > .panel-body",
+    "value": "You can easily switch between the browsers without changing the code."
+  }
+}

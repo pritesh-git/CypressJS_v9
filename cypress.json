@@ -1,0 +1,13 @@
+{
+  "baseUrl": "http://demo.automationtesting.in/",
+  "env": {},
+  "watchForFileChanges": false,
+  "waitForAnimations": true,
+  "chromeWebSecurity": false,
+  "blockHosts": null,
+  "pageLoadTimeout": 60000,
+  "retries": 2,
+  "viewportHeight": 600,
+  "viewportWidth": 1000,
+  "video": false
+}

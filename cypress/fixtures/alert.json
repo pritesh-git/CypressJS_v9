@@ -1,0 +1,21 @@
+{
+  "navArray": [1, 2, 3, 5, 7, 8, 9, 10],
+  "title": { "id": "h1", "value": "Automation Demo Site " },
+  "alertTypeActive": ".active > .analystic",
+  "alertType1": ":nth-child(1) > .analystic",
+  "alertType2": ":nth-child(2) > .analystic",
+  "alertType3": ":nth-child(3) > .analystic",
+  "demo": "#demo",
+  "demo1": "#demo1",
+  "okBtn": "#OKTab > .btn",
+  "textBoxBtn": "#Textbox > .btn",
+  "cancelBtn": "#CancelTab > .btn",
+  "alertText1": "Alert with OK ",
+  "alertText2": "Alert with OK & Cancel ",
+  "alertText3": "Alert with Textbox ",
+  "alertText4": "I am an alert box!",
+  "alertText5": "Press a Button !",
+  "alertText6": "Hello tester How are you today",
+  "alertText7": "You Pressed Cancel",
+  "navTitle": ".navbar > .container"
+}
