@@ -13,11 +13,11 @@ yarn install or npm install
 ### Run on browser
 
 ```
-yarn run cy:open
+yarn run cy:e2e
 ```
 
 ### Run Headless
 
 ```
-yarn run cy:run
+yarn run cy:headless
 ```
